@@ -1,0 +1,8 @@
+D:\18.11.2265\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.exe.config
+D:\18.11.2265\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.exe
+D:\18.11.2265\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.pdb
+D:\18.11.2265\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.csproj.CoreCompileInputs.cache
+D:\18.11.2265\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.exe
+D:\18.11.2265\Agregasi\LatihanAgregasi\obj\Debug\LatihanAgregasi.pdb
+D:\18.11.2265\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.exe.CodeAnalysisLog.xml
+D:\18.11.2265\Agregasi\LatihanAgregasi\bin\Debug\LatihanAgregasi.exe.lastcodeanalysissucceeded
